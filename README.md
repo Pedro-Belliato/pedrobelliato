@@ -9,4 +9,4 @@
 ### About me
 Working as a: IT Infrastructure Analyst.
 
-● Linux ● Docker ● Terraform ● Jenkins ● Zabbix ● Shell Scripts
+● DevOps ● Linux ● Docker ● Terraform ● Jenkins ● Zabbix ● Shell Scripts
